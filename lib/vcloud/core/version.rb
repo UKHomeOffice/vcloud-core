@@ -1,5 +1,5 @@
 module Vcloud
   module Core
-    VERSION = '0.16.0'
+    VERSION = '1.0.2'
   end
 end

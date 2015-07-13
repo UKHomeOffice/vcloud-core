@@ -1,4 +1,5 @@
 require 'mustache'
+require 'JSON'
 
 module Vcloud
   module Core
